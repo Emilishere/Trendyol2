@@ -57,7 +57,7 @@ namespace Trendyol
                 {
                     if (orderManager[i].ProductId == Products[j].Id)
                     {
-                        Console.WriteLine($" Oder-Id: {orderManager[i].Id}, Product-name: {Products[j].Price}, Count: {orderManager[i].count} TotalAmount:{orderManager[i].count * Products[j].Price}");
+                        Console.WriteLine($" Oder-Id: {orderManager[i].Id}, Product-name: {Products[j].title}, Count: {orderManager[i].count} TotalAmount:{orderManager[i].count * Products[j].Price}");
                     }
                 }
 

@@ -26,3 +26,17 @@ C:\Users\HP\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ru
 C:\Users\HP\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.dll
 C:\Users\HP\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.pdb
 C:\Users\HP\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.genruntimeconfig.cache
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.exe
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.deps.json
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.runtimeconfig.json
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.runtimeconfig.dev.json
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.dll
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.pdb
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.csproj.AssemblyReference.cache
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.AssemblyInfoInputs.cache
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.AssemblyInfo.cs
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.csproj.CoreCompileInputs.cache
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.dll
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.pdb
+C:\Users\EmilHuseynli\Desktop\Trendyol-master\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.genruntimeconfig.cache
